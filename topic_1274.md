@@ -10,7 +10,7 @@
 
 <p>[1]<a href="http://www.designcouncil.org.uk/news-opinion/design-process-what-double-diamond">http://www.designcouncil.org.uk/news-opinion/design-process-what-double-diamond</a><br>[2] <a href="https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/305148/Civil-Service-Reform-Plan-final.pdf">https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/305148/Civil-Service-Reform-Plan-final.pdf</a><br>[3] <a href="https://openpolicy.blog.gov.uk/what-is-open-policy-making/">https://openpolicy.blog.gov.uk/what-is-open-policy-making/</a></p>
 
-<p><strong>政策形成的過程分為</strong></p>
+<h3>政策形成的過程分為</h3>
 
 <ol>
 <li>共識形成</li>
@@ -28,7 +28,7 @@
 
 <blockquote><p>這些工具都是依照流程來打造的。「流程」是什麼意思？我們會先試著，尤其是人民已經讓我們知道很關注的，好比像連署七千人的議題，我們希望不只是互相叫囂或者是謾罵，能夠形成最基本的共識，再來想說我們的政策有哪一些問題是如何歸納定義出來的。– 唐鳳 <a href="https://www.facebook.com/notes/%E5%94%90%E9%B3%B3/%E7%AC%AC1%E5%AD%A3%E9%96%8B%E6%94%BE%E6%94%BF%E5%BA%9C%E6%94%BF%E7%AD%96%E5%8D%94%E8%AA%BF%E8%81%AF%E7%B9%AB%E6%9C%83%E8%AD%B0-%E8%87%B4%E8%BE%AD/196676124156999">2017-03-28 第1季開放政府政策協調聯繫會議 致辭</a></p></blockquote>
 
-<p><strong>參與建設才會使用建設</strong></p>
+<h3>參與建設才會使用建設</h3>
 
 <p>這是一般政策制定流程以及應用設計思考的政策制定流程比較圖：政務官由上而下形成政策，再由專業的事務官規劃流程，接著由廠商或者是承辦的朋友們建立系統，然後接下來再進行維護，維護到一個完整的程度，就會進一步法制化等等。但是在使用者的角度來看，他們碰到系統的時候，他們才知道政府有規劃系統，很少人會看行政院會之後的簡報就了解未來的政策或服務發展方向。因此，需要先了解議題的問題點、使用者[4]需求，進而討論我們需要做哪一些事來解決問題、達成目標，接著思考服務、系統、政策、法規的樣貌，以及必要維護的工作還有哪一些。也能夠將這樣的產出變成需求說明書的一部分，方便敏捷採購時與資訊廠商溝通並按照這一個系統來建置，而不是花了時間建置完成後，不好用還要打掉重練。</p>
 
