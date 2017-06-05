@@ -1,6 +1,6 @@
 <h2>創新工具流程與思維是為了幫助工作更精準、有效率</h2>
 
-<p>思考方法的來源，來自於設計思考 (design thinking) 常常參考的雙鑽理論 (double diamond) ，從時間軸的左到右，大致可以分為四個階段：探索、定義、發展、傳遞。<br><div class="lightbox-wrapper"><a data-download-href="https://talk.pdis.nat.gov.tw/uploads/default/a00d769bfc98d27df42d29a5e89ba7d513414a93" href="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/a00d769bfc98d27df42d29a5e89ba7d513414a93.png" class="lightbox" title="Screenshot 2017-05-16 16.57.40.png"><img src="https://talk.pdis.nat.gov.tw/uploads/default/optimized/1X/a00d769bfc98d27df42d29a5e89ba7d513414a93_1_690x381.png" width="690" height="381"><div class="meta">
+<p>思考方法的來源，來自於設計思考 (design thinking) 常常參考的雙鑽理論 (double diamond) ，從時間軸的左到右，大致可以分為四個階段：探索(Discover)、定義(Define)、發展(Develop)、傳遞(Deliver)。<br><div class="lightbox-wrapper"><a data-download-href="https://talk.pdis.nat.gov.tw/uploads/default/a00d769bfc98d27df42d29a5e89ba7d513414a93" href="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/a00d769bfc98d27df42d29a5e89ba7d513414a93.png" class="lightbox" title="Screenshot 2017-05-16 16.57.40.png"><img src="https://talk.pdis.nat.gov.tw/uploads/default/optimized/1X/a00d769bfc98d27df42d29a5e89ba7d513414a93_1_690x381.png" width="690" height="381"><div class="meta">
 <span class="filename">Screenshot 2017-05-16 16.57.40.png</span><span class="informations">1425x787 512 KB</span><span class="expand"></span>
 </div></a></div></p>
 
