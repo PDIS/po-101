@@ -16,10 +16,10 @@
 <li>政策與服務概念發展</li>
 <li>政策與服務設計</li>
 <li>政策與服務測試</li>
-<li>政策與服務執行<br><div class="lightbox-wrapper"><a data-download-href="https://talk.pdis.nat.gov.tw/uploads/default/349d2b4d034175f698499494f0ea20fe4e2330b9" href="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/349d2b4d034175f698499494f0ea20fe4e2330b9.jpg" class="lightbox" title="2.jpg"><img src="https://talk.pdis.nat.gov.tw/uploads/default/optimized/1X/349d2b4d034175f698499494f0ea20fe4e2330b9_1_690x355.jpg" width="690" height="355"><div class="meta">
-<span class="filename">2.jpg</span><span class="informations">1516x780 140 KB</span><span class="expand"></span>
+<li>政策與服務執行<br><div class="lightbox-wrapper"><a data-download-href="https://talk.pdis.nat.gov.tw/uploads/default/d4a4114c097e60430823ab60373e5b92c1b2a207" href="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/d4a4114c097e60430823ab60373e5b92c1b2a207.jpg" class="lightbox" title="3.jpg"><img src="https://talk.pdis.nat.gov.tw/uploads/default/optimized/1X/d4a4114c097e60430823ab60373e5b92c1b2a207_1_690x386.jpg" width="690" height="386"><div class="meta">
+<span class="filename">3.jpg</span><span class="informations">1524x854 142 KB</span><span class="expand"></span>
 </div></a></div>
-<br>工具、流程、思維能夠輔助與促進現有政策發展過程、日常事務處理、開會議程，另外，使用工具過程的記錄，也能夠幫助討論與決議過程的演算法公開，幫助意見歸納，形成開放透明的政策履歷，對於內部與外部的溝通，都會有實質的幫助。</li>
+</li>
 </ol>
 
 <blockquote><p>這些工具都是依照流程來打造的。「流程」是什麼意思？我們會先試著，尤其是人民已經讓我們知道很關注的，好比像連署七千人的議題，我們希望不只是互相叫囂或者是謾罵，能夠形成最基本的共識，再來想說我們的政策有哪一些問題是如何歸納定義出來的。– 唐鳳 <a href="https://www.facebook.com/notes/%E5%94%90%E9%B3%B3/%E7%AC%AC1%E5%AD%A3%E9%96%8B%E6%94%BE%E6%94%BF%E5%BA%9C%E6%94%BF%E7%AD%96%E5%8D%94%E8%AA%BF%E8%81%AF%E7%B9%AB%E6%9C%83%E8%AD%B0-%E8%87%B4%E8%BE%AD/196676124156999">2017-03-28 第1季開放政府政策協調聯繫會議 致辭</a></p></blockquote>
