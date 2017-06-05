@@ -1,8 +1,6 @@
 <h2>創新工具流程與思維是為了幫助工作更精準、有效率</h2>
 
-<p>思考方法的來源，來自於公部門與設計公司在應用設計思考 (Design Thinking) 時，經常參考的雙鑽流程 (Double Diamond) [1]，此流程由英國設計協議會（British Design Council）提出，是一種設計過程的基本架構，從時間軸的左到右，可以分為四個階段：探索(Discover)、定義(Define)、發展(Develop)、傳遞(Deliver)，如何有效率以及有品質地完成這個流程，需要許多工具與方法輔助。<br>[1]<a href="http://www.designcouncil.org.uk/news-opinion/design-process-what-double-diamond">http://www.designcouncil.org.uk/news-opinion/design-process-what-double-diamond</a><div class="lightbox-wrapper"><a data-download-href="https://talk.pdis.nat.gov.tw/uploads/default/27e321b95727ee046ed68a098b0d685e629b42c3" href="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/27e321b95727ee046ed68a098b0d685e629b42c3.png" class="lightbox" title="Double-Diamond-A3-for-publication-A-2000px_1.png"><img src="https://talk.pdis.nat.gov.tw/uploads/default/optimized/1X/27e321b95727ee046ed68a098b0d685e629b42c3_1_690x404.png" width="690" height="404"><div class="meta">
-<span class="filename">Double-Diamond-A3-for-publication-A-2000px_1.png</span><span class="informations">795x466 171 KB</span><span class="expand"></span>
-</div></a></div></p>
+<p>思考方法的來源，來自於公部門與設計公司在應用設計思考 (Design Thinking) 時，經常參考的雙鑽流程 (Double Diamond) [1]，此流程由英國設計協議會（British Design Council）提出，是一種設計過程的基本架構，從時間軸的左到右，可以分為四個階段：探索(Discover)、定義(Define)、發展(Develop)、傳遞(Deliver)，如何有效率以及有品質地完成這個流程，需要許多工具與方法輔助。<br>[1]<a href="http://www.designcouncil.org.uk/news-opinion/design-process-what-double-diamond">http://www.designcouncil.org.uk/news-opinion/design-process-what-double-diamond</a><img src="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/27e321b95727ee046ed68a098b0d685e629b42c3.png" width="690" height="404"></p>
 
 <p>工具與方法的來源，主要綜合了英國Policy Lab政府組織政策形成工具(Open Policy Making 概念)以及服務設計方法，輔以丹麥Mind Lab設計方法、商業分析方法、組織經營管理方法，經由PO工作坊（也稱作PO協作會議）講師張顧問視每場PO工作坊的議題以及會議目標，去調整設計適合PO使用的工具與流程。<br>英國過去專業文官制度所遇到的問題至少高達八成與我國政府相同，可參考2012年的一份「公務人員重新架構」報告[2]，專業文官國家在政府保守跟自由民主黨的聯合政府底下，決定公務員做的事讓人沒有成就感，當時開放政府尚未變成國際上的顯學，遂提出「公務重新架構」報告。雖然決策的結果是透明的，但是決策的過程是重重黑幕，據以決策的工具是不公開的。因此他們提出「協作」的概念來當作這一個問題的方式。只要有專業文官系統，這個問題就是制度性、跑不掉的，因此他們當初提出「Open Policy Making」的概念，在這個開放政策概念圖裡[3]，我們可以看到「Join」平台目前就是「E-consultation」一個非常小的一個部分。</p>
 
@@ -16,14 +14,8 @@
 <li>政策與服務概念發展</li>
 <li>政策與服務設計</li>
 <li>政策與服務測試</li>
-<li>政策與服務執行</li>
+<li>政策與服務執行<br><img src="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/349d2b4d034175f698499494f0ea20fe4e2330b9.jpg" width="690" height="355"><br>工具、流程、思維能夠輔助與促進現有政策發展過程、日常事務處理、開會議程，另外，使用工具過程的記錄，也能夠幫助討論與決議過程的演算法公開，幫助意見歸納，形成開放透明的政策履歷，對於內部與外部的溝通，都會有實質的幫助。</li>
 </ol>
-
-<p><div class="lightbox-wrapper"><a data-download-href="https://talk.pdis.nat.gov.tw/uploads/default/94751d09105844efaec0c2925d48104df05dd252" href="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/94751d09105844efaec0c2925d48104df05dd252.jpg" class="lightbox" title="1.jpg"><img src="https://talk.pdis.nat.gov.tw/uploads/default/optimized/1X/94751d09105844efaec0c2925d48104df05dd252_1_690x387.jpg" width="690" height="387"><div class="meta">
-<span class="filename">1.jpg</span><span class="informations">1524x856 145 KB</span><span class="expand"></span>
-</div></a></div></p>
-
-<p>後面幾章將從共識形成，到最後政策與服務執行的階段，分別介紹每個階段適合使用的工具，以及它們的使用時機、目的、方式，協助 PO們了解，進而實際應用在日常事務中，也鼓勵PO們發展自己的工具與方法，讓工作更精準、有效率。創新工具、流程、思維能夠輔助與促進現有政策發展過程、日常事務處理、開會議程，另外，使用工具過程的記錄，也能夠幫助討論與決議過程的演算法公開，幫助意見歸納，形成開放透明的政策履歷，對於內部與外部的溝通，都會有實質的幫助。</p>
 
 <blockquote><p>這些工具都是依照流程來打造的。「流程」是什麼意思？我們會先試著，尤其是人民已經讓我們知道很關注的，好比像連署七千人的議題，我們希望不只是互相叫囂或者是謾罵，能夠形成最基本的共識，再來想說我們的政策有哪一些問題是如何歸納定義出來的。– 唐鳳 <a href="https://www.facebook.com/notes/%E5%94%90%E9%B3%B3/%E7%AC%AC1%E5%AD%A3%E9%96%8B%E6%94%BE%E6%94%BF%E5%BA%9C%E6%94%BF%E7%AD%96%E5%8D%94%E8%AA%BF%E8%81%AF%E7%B9%AB%E6%9C%83%E8%AD%B0-%E8%87%B4%E8%BE%AD/196676124156999">2017-03-28 第1季開放政府政策協調聯繫會議 致辭</a></p></blockquote>
 
@@ -33,6 +25,4 @@
 
 <p>[4] 設計思考應用之流程下的「使用者」：這裡的「使用者」是指廣義的使用者，也就是各方利益關係人，除了末端使用者、專業人士、組織，另有包含服務提供者。</p>
 
-<p><div class="lightbox-wrapper"><a data-download-href="https://talk.pdis.nat.gov.tw/uploads/default/81b9721924560d80feae65f8374817a3a5e5162b" href="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/81b9721924560d80feae65f8374817a3a5e5162b.png" class="lightbox" title="貼上的圖片"><img src="https://talk.pdis.nat.gov.tw/uploads/default/optimized/1X/81b9721924560d80feae65f8374817a3a5e5162b_1_634x500.png" width="634" height="500"><div class="meta">
-<span class="filename">貼上的圖片</span><span class="informations">1510x1190 80.6 KB</span><span class="expand"></span>
-</div></a></div></p>
+<p><img src="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/81b9721924560d80feae65f8374817a3a5e5162b.png" width="634" height="500"></p>
