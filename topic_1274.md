@@ -1,10 +1,10 @@
 <h2>創新工具流程與思維是為了幫助工作更精準、有效率</h2>
 
-<p>思考方法的來源，來自於設計思考 (Design Thinking) 常常參考的雙鑽理論 (Double Diamond) ，從時間軸的左到右，大致可以分為四個階段：探索(Discover)、定義(Define)、發展(Develop)、傳遞(Deliver)。<br><div class="lightbox-wrapper"><a data-download-href="https://talk.pdis.nat.gov.tw/uploads/default/a00d769bfc98d27df42d29a5e89ba7d513414a93" href="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/a00d769bfc98d27df42d29a5e89ba7d513414a93.png" class="lightbox" title="Screenshot 2017-05-16 16.57.40.png"><img src="https://talk.pdis.nat.gov.tw/uploads/default/optimized/1X/a00d769bfc98d27df42d29a5e89ba7d513414a93_1_690x381.png" width="690" height="381"><div class="meta">
-<span class="filename">Screenshot 2017-05-16 16.57.40.png</span><span class="informations">1425x787 512 KB</span><span class="expand"></span>
+<p>思考方法的來源，來自於公部門與設計公司在應用設計思考 (Design Thinking) 時，經常參考的雙鑽流程 (Double Diamond) [1]，由英國設計協議會（British Design Council）提出，是一種設計過程的基本架構，從時間軸的左到右，大致可以分為四個階段：探索(Discover)、定義(Define)、發展(Develop)、傳遞(Deliver)，如何有效率以及有品質地完成這個流程，需要許多工具與方法輔助。<br>[1]<a href="http://www.designcouncil.org.uk/news-opinion/design-process-what-double-diamond">http://www.designcouncil.org.uk/news-opinion/design-process-what-double-diamond</a><div class="lightbox-wrapper"><a data-download-href="https://talk.pdis.nat.gov.tw/uploads/default/27e321b95727ee046ed68a098b0d685e629b42c3" href="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/27e321b95727ee046ed68a098b0d685e629b42c3.png" class="lightbox" title="Double-Diamond-A3-for-publication-A-2000px_1.png"><img src="https://talk.pdis.nat.gov.tw/uploads/default/optimized/1X/27e321b95727ee046ed68a098b0d685e629b42c3_1_690x404.png" width="690" height="404"><div class="meta">
+<span class="filename">Double-Diamond-A3-for-publication-A-2000px_1.png</span><span class="informations">795x466 171 KB</span><span class="expand"></span>
 </div></a></div></p>
 
-<p>工具的來源，主要綜合了英國Policy Lab政府組織政策形成工具(Open Policy Making 概念)以及服務設計方法，輔以丹麥Mind Lab設計方法、商業分析方法、組織經營管理方法，經由PO工作坊（也稱作PO協作會議）講師張顧問視每場PO工作坊的議題以及會議目標，去調整設計適合PO使用的工具與流程。<br>英國過去專業文官制度所遇到的問題至少高達八成與我國政府相同，可參考2012年的一份「公務人員重新架構」報告[1]，專業文官國家在政府保守跟自由民主黨的聯合政府底下，決定公務員做的事讓人沒有成就感，當時開放政府尚未變成國際上的顯學，遂提出「公務重新架構」報告。雖然決策的結果是透明的，但是決策的過程是重重黑幕，據以決策的工具是不公開的。因此他們提出「協作」的概念來當作這一個問題的方式。只要有專業文官系統，這個問題就是制度性、跑不掉的，因此他們當初提出「Open Policy Making」的概念，在這個開放政策概念圖裡[2]，我們可以看到「Join」平台目前就是「E-consultation」一個非常小的一個部分。</p>
+<p>工具與方法的來源，主要綜合了英國Policy Lab政府組織政策形成工具(Open Policy Making 概念)以及服務設計方法，輔以丹麥Mind Lab設計方法、商業分析方法、組織經營管理方法，經由PO工作坊（也稱作PO協作會議）講師張顧問視每場PO工作坊的議題以及會議目標，去調整設計適合PO使用的工具與流程。<br>英國過去專業文官制度所遇到的問題至少高達八成與我國政府相同，可參考2012年的一份「公務人員重新架構」報告[1]，專業文官國家在政府保守跟自由民主黨的聯合政府底下，決定公務員做的事讓人沒有成就感，當時開放政府尚未變成國際上的顯學，遂提出「公務重新架構」報告。雖然決策的結果是透明的，但是決策的過程是重重黑幕，據以決策的工具是不公開的。因此他們提出「協作」的概念來當作這一個問題的方式。只要有專業文官系統，這個問題就是制度性、跑不掉的，因此他們當初提出「Open Policy Making」的概念，在這個開放政策概念圖裡[2]，我們可以看到「Join」平台目前就是「E-consultation」一個非常小的一個部分。</p>
 
 <p>[1] <a href="https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/305148/Civil-Service-Reform-Plan-final.pdf">https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/305148/Civil-Service-Reform-Plan-final.pdf</a><br>[2] <a href="https://openpolicy.blog.gov.uk/what-is-open-policy-making/">https://openpolicy.blog.gov.uk/what-is-open-policy-making/</a></p>
 
@@ -18,9 +18,6 @@
 <li>政策與服務測試</li>
 <li>政策與服務執行<br><div class="lightbox-wrapper"><a data-download-href="https://talk.pdis.nat.gov.tw/uploads/default/14fa936b6106eb1423d8fe94e14ee6b01dadbdb7" href="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/14fa936b6106eb1423d8fe94e14ee6b01dadbdb7.jpg" class="lightbox" title="policy design process.jpg"><img src="https://talk.pdis.nat.gov.tw/uploads/default/optimized/1X/14fa936b6106eb1423d8fe94e14ee6b01dadbdb7_1_690x371.jpg" width="690" height="371"><div class="meta">
 <span class="filename">policy design process.jpg</span><span class="informations">2164x1164 209 KB</span><span class="expand"></span>
-</div></a></div>
-<br><div class="lightbox-wrapper"><a data-download-href="https://talk.pdis.nat.gov.tw/uploads/default/b1ec1865f43be5ff73d88b8a409f2f0e5bd30540" href="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/b1ec1865f43be5ff73d88b8a409f2f0e5bd30540.jpg" class="lightbox" title="Screen Shot 2017-06-05 at 3.10.28 PM.jpg"><img src="https://talk.pdis.nat.gov.tw/uploads/default/optimized/1X/b1ec1865f43be5ff73d88b8a409f2f0e5bd30540_1_689x387.jpg" width="689" height="387"><div class="meta">
-<span class="filename">Screen Shot 2017-06-05 at 3.10.28 PM.jpg</span><span class="informations">2424x1362 243 KB</span><span class="expand"></span>
 </div></a></div>
 </li>
 </ol>
