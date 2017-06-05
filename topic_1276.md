@@ -6,6 +6,14 @@
 
 <p>在協作會議建議業務單位與PO一起準備議題相關資料，在會議前把資料全部看過，並做個議題發展討論脈落整理，目的是讓大家可以在協作會議中更專注去進行尚未討論過、尚未有結論、尚未有共識的問題，避免之前會議開過的內容在協作會議中又重新討論。</p>
 
+<h3>方法1 :資料搜集(Desk Research) - 步驟1到4</h3>
+
+<p>需要通盤了解一個議題，需要從各種角度去了解它，而ㄧ手、二手資料搜集是一個必要的過程，一手的資料包含政府內部的相關文件、影音檔，二手資料來源包含新聞報導、專家論述、網路輿論、學術報告、產業報告...等等。</p>
+
+<h3>方法2 :調查與訪談(Survey and Interview) - 步驟1到4</h3>
+
+<p>需要通盤了解一個議題，需要從各種角度去了解它，而ㄧ手資料的另一種來源，例如透過問卷、訪談利害關係者所得到的資料，也是非常重要的。</p>
+
 <p><strong>☞步驟1. 利害關係人盤點並邀請至協作會議</strong><br><strong>（補充邀請規則：中央部會清單提供給政委辦公室致翔協助邀請、相關組織/廠商以及提案人與連署人由由業務單位直接邀請）</strong></p>
 
 <p>做利害關係人盤點並邀請至協作會議目的是，讓各方與此議題有關的政府單位、相關團體、廠商、民眾，有機會聽見彼此的意見並協作，這這個協作會議發揮真正「協作」的精神。舉開放政府聯絡人第3次協作會議（2017.03.31計畫管理法案臺灣版一案）為例，國發會為此議題的主責機關，認為此議題與「行政院科技會報辦公室」、「行政院主計總處」、「行政院公共工程委員會」都有關連，需要大家一起出席才能周全研議。再舉開放政府聯絡人第4次協作會議（2017.04.21解除禁行機慢車道、強制二段式左轉一案）為例，交通度為此議題的主責機關，除了政府跨部會邀請外，也邀請了相關組織，如「機車路權促進會」、「貨運同業工會」。這個部分也需要二位提供希望加邀的相關部會、團體、廠商清單，並告知二位與提案人、連署人邀請情形。</p>
@@ -38,34 +46,20 @@
 
 <p>步驟一到三的表格同一「列」的資料需要有相關聯，例如：爭點1-期待解法1-資了種類1-重點節錄1-希望處理的方式或方向1-會面臨到的困難1。而第1列的資訊可能不會只有一筆，可以分細項在表格中填寫，例如：呼應到爭點1的資料種類有專家學者會議的研議會議記錄、立委質詢的紀錄資料，這樣在資料種類的同一列裡寫上以上兩項的資料種類以及分別的重點節錄。</p>
 
-<h3>方法1 :資料搜集(Desk Research) - 步驟1到3</h3>
-
-<p>需要通盤了解一個議題，需要從各種角度去了解它，而ㄧ手、二手資料搜集是一個必要的過程，一手的資料包含政府內部的相關文件、影音檔，二手資料來源包含新聞報導、專家論述、網路輿論、學術報告、產業報告...等等。</p>
-
-<h3>方法2 :調查與訪談(Survey and Interview) - 步驟1到3</h3>
-
-<p>需要通盤了解一個議題，需要從各種角度去了解它，而ㄧ手資料的另一種來源，例如透過問卷、訪談利害關係者所得到的資料，也是非常重要的。</p>
-
 <h2>如何盤點並歸納研究內容？</h2>
 
 <h3>問題盤點並歸納輔助方法1 :議題分析表</h3>
 
-<p>議題分析表供PO與業務單位使用，將議題相關資料（步驟1到3）整理到此表，再依照現有盤點的資料，內部初步討論對此議題的看法、未來希望繼續處理的方式或方向與困難，並記錄在此表的最後一欄。<br><div class="lightbox-wrapper"><a data-download-href="https://talk.pdis.nat.gov.tw/uploads/default/4eb1a6d016d5181b492a687c12986c278bc2e70a" href="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/4eb1a6d016d5181b492a687c12986c278bc2e70a.png" class="lightbox" title="image.png"><img src="https://talk.pdis.nat.gov.tw/uploads/default/optimized/1X/4eb1a6d016d5181b492a687c12986c278bc2e70a_1_690x447.png" width="690" height="447"><div class="meta">
-<span class="filename">image.png</span><span class="informations">1510x980 378 KB</span><span class="expand"></span>
-</div></a></div></p>
+<p>議題分析表供PO與業務單位使用，將議題相關資料（步驟1到3）整理到此表，再依照現有盤點的資料，內部初步討論對此議題的看法、未來希望繼續處理的方式或方向與困難，並記錄在此表的最後一欄。<br><img src="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/4eb1a6d016d5181b492a687c12986c278bc2e70a.png" width="690" height="447"></p>
 
 <h3>問題盤點並歸納輔助方法2 :心智圖法(Mind Mapping)</h3>
 
 <p>心智圖法，是一種思想歸納與紀錄的方法，它能夠有系統性地整理在大議題下的子議題與問題，在日後研議討論時，幫助與會同仁能夠在相同的資料背景與脈絡去討論，提高會議的效率。在研議問題時，常常也會將可能解決辦法一同提出，但在這個階段最重要的是把問題釐清而非馬上想出解決問題的方法，能夠透過心智圖法將在這階段提出的解決辦法另外標記，除了能避免草率想出解決辦法外，也能幫助將解決辦法記錄下來，作為日後研議解決辦法的素材之一。<br>大圖(2017.03.24國產車撞擊測試分級並公開結果一案）請見：<a href="https://realtimeboard.com/app/board/o9J_k052DeM=/">https://realtimeboard.com/app/board/o9J_k052DeM=/</a></p>
 
-<p><div class="lightbox-wrapper"><a data-download-href="https://talk.pdis.nat.gov.tw/uploads/default/5a0b56fa93c5275a554bbd945beb11c53a17cccb" href="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/5a0b56fa93c5275a554bbd945beb11c53a17cccb.jpg" class="lightbox" title="blob.jpg"><img src="https://talk.pdis.nat.gov.tw/uploads/default/optimized/1X/5a0b56fa93c5275a554bbd945beb11c53a17cccb_1_690x344.jpg" width="690" height="344"><div class="meta">
-<span class="filename">blob.jpg</span><span class="informations">1578x788 247 KB</span><span class="expand"></span>
-</div></a></div></p>
+<p><img src="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/5a0b56fa93c5275a554bbd945beb11c53a17cccb.jpg" width="690" height="344"></p>
 
 <h2>如何形成挑戰句？</h2>
 
 <p>挑戰句的形成屬於**問題定義**的階段。</p>
 
-<p><div class="lightbox-wrapper"><a data-download-href="https://talk.pdis.nat.gov.tw/uploads/default/3f2b988b928ea4011f0653802b8798fcce20203c" href="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/3f2b988b928ea4011f0653802b8798fcce20203c.jpg" class="lightbox" title="blob.jpg"><img src="https://talk.pdis.nat.gov.tw/uploads/default/optimized/1X/3f2b988b928ea4011f0653802b8798fcce20203c_1_690x273.jpg" width="690" height="273"><div class="meta">
-<span class="filename">blob.jpg</span><span class="informations">1590x630 66.3 KB</span><span class="expand"></span>
-</div></a></div></p>
+<p><img src="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/3f2b988b928ea4011f0653802b8798fcce20203c.jpg" width="690" height="273"></p>
