@@ -4,7 +4,7 @@
 
 <h2>如何形成初步概念？</h2>
 
-<p><strong>☞服務概念發展輔助方法1 : 概念發展單V.1</strong></p>
+<h3>服務概念發展輔助方法1 : 概念發展單V.1</h3>
 
 <p>概念發展單 V.1 啟發自英國Policy Lab在政府政策形成過程概念發展階段所使用的方法，經過張顧問優化此作業單，形成了現在適合政府使用的版本，作業單的形式會依情況轉變成各種形式，歡迎以活用的心態自行調整。</p>
 
@@ -16,7 +16,7 @@
 </div></a></div></p></li>
 </ul>
 
-<p><strong>☞政策概念發展輔助方法2 : 概念發展單V.2</strong></p>
+<h3>政策概念發展輔助方法2 : 概念發展單V.2</h3>
 
 <p>概念發展單V.2是以活用概念發展單V.1的前提，去加以變形的例子。</p>
 
@@ -30,12 +30,12 @@
 
 <h2>如何深化概念？</h2>
 
-<p><strong>☞階段1：服務設計藍圖與使用者旅程</strong></p>
+<p><strong>☞步驟1：服務設計藍圖與使用者旅程</strong></p>
 
 <p>服務設計藍圖與使用者旅程，可以幫助將上面工作單概念發展明確化，以使用者的流程去思考相對應的細節。<br><div class="lightbox-wrapper"><a data-download-href="https://talk.pdis.nat.gov.tw/uploads/default/d5bf4e235725bb0eab2dec33decb3acc7dea6b46" href="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/d5bf4e235725bb0eab2dec33decb3acc7dea6b46.jpg" class="lightbox" title="blueprint.jpg"><img src="https://talk.pdis.nat.gov.tw/uploads/default/optimized/1X/d5bf4e235725bb0eab2dec33decb3acc7dea6b46_1_690x415.jpg" width="690" height="415"><div class="meta">
 <span class="filename">blueprint.jpg</span><span class="informations">2196x1322 281 KB</span><span class="expand"></span>
 </div></a></div></p>
 
-<p><strong>☞階段2：使用者旅程視覺化</strong></p>
+<p><strong>☞步驟2：使用者旅程視覺化</strong></p>
 
 <p>以階段一的「服務設計藍圖與使用者旅程」為基礎，發展</p>
