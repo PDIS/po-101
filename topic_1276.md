@@ -6,11 +6,11 @@
 
 <p>在協作會議建議業務單位與PO一起準備議題相關資料，在會議前把資料全部看過，並做個議題發展討論脈落整理，目的是讓大家可以在協作會議中更專注去進行尚未討論過、尚未有結論、尚未有共識的問題，避免之前會議開過的內容在協作會議中又重新討論。</p>
 
-<h3>方法1 :資料搜集(Desk Research) - 步驟1到4</h3>
+<h3>方法1 :資料搜集(Desk Research) - 搭配步驟1到4</h3>
 
 <p>需要通盤了解一個議題，需要從各種角度去了解它，而ㄧ手、二手資料搜集是一個必要的過程，一手的資料包含政府內部的相關文件、影音檔，二手資料來源包含新聞報導、專家論述、網路輿論、學術報告、產業報告...等等。</p>
 
-<h3>方法2 :調查與訪談(Survey and Interview) - 步驟1到4</h3>
+<h3>方法2 :調查與訪談(Survey and Interview) - 搭配步驟1到4</h3>
 
 <p>需要通盤了解一個議題，需要從各種角度去了解它，而ㄧ手資料的另一種來源，例如透過問卷、訪談利害關係者所得到的資料，也是非常重要的。</p>
 
@@ -50,22 +50,16 @@
 
 <h3>問題盤點並歸納輔助方法1 :議題分析表</h3>
 
-<p>議題分析表供PO與業務單位使用，將議題相關資料（步驟1到3）整理到此表，再依照現有盤點的資料，內部初步討論對此議題的看法、未來希望繼續處理的方式或方向與困難，並記錄在此表的最後一欄。<br><div class="lightbox-wrapper"><a data-download-href="https://talk.pdis.nat.gov.tw/uploads/default/4eb1a6d016d5181b492a687c12986c278bc2e70a" href="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/4eb1a6d016d5181b492a687c12986c278bc2e70a.png" class="lightbox" title="image.png"><img src="https://talk.pdis.nat.gov.tw/uploads/default/optimized/1X/4eb1a6d016d5181b492a687c12986c278bc2e70a_1_690x447.png" width="690" height="447"><div class="meta">
-<span class="filename">image.png</span><span class="informations">1510x980 378 KB</span><span class="expand"></span>
-</div></a></div></p>
+<p>議題分析表供PO與業務單位使用，將議題相關資料（步驟1到3）整理到此表，再依照現有盤點的資料，內部初步討論對此議題的看法、未來希望繼續處理的方式或方向與困難，並記錄在此表的最後一欄。<br><img src="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/4eb1a6d016d5181b492a687c12986c278bc2e70a.png" width="690" height="447"></p>
 
 <h3>問題盤點並歸納輔助方法2 :心智圖法(Mind Mapping)</h3>
 
 <p>心智圖法，是一種思想歸納與紀錄的方法，它能夠有系統性地整理在大議題下的子議題與問題，在日後研議討論時，幫助與會同仁能夠在相同的資料背景與脈絡去討論，提高會議的效率。在研議問題時，常常也會將可能解決辦法一同提出，但在這個階段最重要的是把問題釐清而非馬上想出解決問題的方法，能夠透過心智圖法將在這階段提出的解決辦法另外標記，除了能避免草率想出解決辦法外，也能幫助將解決辦法記錄下來，作為日後研議解決辦法的素材之一。<br>大圖(2017.03.24國產車撞擊測試分級並公開結果一案）請見：<a href="https://realtimeboard.com/app/board/o9J_k052DeM=/">https://realtimeboard.com/app/board/o9J_k052DeM=/</a></p>
 
-<p><div class="lightbox-wrapper"><a data-download-href="https://talk.pdis.nat.gov.tw/uploads/default/5a0b56fa93c5275a554bbd945beb11c53a17cccb" href="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/5a0b56fa93c5275a554bbd945beb11c53a17cccb.jpg" class="lightbox" title="blob.jpg"><img src="https://talk.pdis.nat.gov.tw/uploads/default/optimized/1X/5a0b56fa93c5275a554bbd945beb11c53a17cccb_1_690x344.jpg" width="690" height="344"><div class="meta">
-<span class="filename">blob.jpg</span><span class="informations">1578x788 247 KB</span><span class="expand"></span>
-</div></a></div></p>
+<p><img src="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/5a0b56fa93c5275a554bbd945beb11c53a17cccb.jpg" width="690" height="344"></p>
 
 <h2>如何形成挑戰句？</h2>
 
 <p>挑戰句的形成屬於**問題定義**的階段。</p>
 
-<p><div class="lightbox-wrapper"><a data-download-href="https://talk.pdis.nat.gov.tw/uploads/default/3f2b988b928ea4011f0653802b8798fcce20203c" href="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/3f2b988b928ea4011f0653802b8798fcce20203c.jpg" class="lightbox" title="blob.jpg"><img src="https://talk.pdis.nat.gov.tw/uploads/default/optimized/1X/3f2b988b928ea4011f0653802b8798fcce20203c_1_690x273.jpg" width="690" height="273"><div class="meta">
-<span class="filename">blob.jpg</span><span class="informations">1590x630 66.3 KB</span><span class="expand"></span>
-</div></a></div></p>
+<p><img src="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/3f2b988b928ea4011f0653802b8798fcce20203c.jpg" width="690" height="273"></p>
