@@ -11,5 +11,7 @@
 <ul>
 <li><p><strong>工具使用的時機</strong>：在問題被明確定義之後，需要工作單協助發想服務並記錄的時機。</p></li>
 <li><p><strong>工具的目的與用途</strong>：欄位可以快速引導、幫助大家去思考並記錄問題，包含：定義後的問題、初步解決方式、概念簡述、概念架構與情境、潛在風險與障礙及其克服方式、測試概念方法、執行概念的單位於人員、成功的樣貌。</p></li>
-<li><p><strong>適合使用工具的人員組成</strong>：任何有涉入政策規劃的人員，跨部會或者是單一部會人員組合皆適用。</p></li>
+<li><p><strong>適合使用工具的人員組成</strong>：任何有涉入政策規劃的人員，跨部會或者是單一部會人員組合皆適用。<br><div class="lightbox-wrapper"><a data-download-href="https://talk.pdis.nat.gov.tw/uploads/default/de0993f500c2a159cfdfb3eb64beb7bfee8a5af3" href="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/de0993f500c2a159cfdfb3eb64beb7bfee8a5af3.jpg" class="lightbox" title="Screen Shot 2017-06-05 at 8.55.21 AM.jpg"><img src="https://talk.pdis.nat.gov.tw/uploads/default/optimized/1X/de0993f500c2a159cfdfb3eb64beb7bfee8a5af3_1_690x487.jpg" width="690" height="487"><div class="meta">
+<span class="filename">Screen Shot 2017-06-05 at 8.55.21 AM.jpg</span><span class="informations">1858x1314 234 KB</span><span class="expand"></span>
+</div></a></div></p></li>
 </ul>
