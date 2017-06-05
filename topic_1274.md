@@ -18,8 +18,8 @@
 <li>政策與服務概念發展</li>
 <li>政策與服務設計</li>
 <li>政策與服務測試</li>
-<li>政策與服務執行<br><div class="lightbox-wrapper"><a data-download-href="https://talk.pdis.nat.gov.tw/uploads/default/654fe9758323e98a45b0d3757c43a0cc62126d06" href="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/654fe9758323e98a45b0d3757c43a0cc62126d06.jpg" class="lightbox" title="policy design process 1.jpg"><img src="https://talk.pdis.nat.gov.tw/uploads/default/optimized/1X/654fe9758323e98a45b0d3757c43a0cc62126d06_1_690x335.jpg" width="690" height="335"><div class="meta">
-<span class="filename">policy design process 1.jpg</span><span class="informations">1518x738 128 KB</span><span class="expand"></span>
+<li>政策與服務執行<br><div class="lightbox-wrapper"><a data-download-href="https://talk.pdis.nat.gov.tw/uploads/default/b10ed851859c12def63dd7f4c6ad7a356657aa7e" href="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/b10ed851859c12def63dd7f4c6ad7a356657aa7e.jpg" class="lightbox" title="policy design process 0.jpg"><img src="https://talk.pdis.nat.gov.tw/uploads/default/optimized/1X/b10ed851859c12def63dd7f4c6ad7a356657aa7e_1_690x348.jpg" width="690" height="348"><div class="meta">
+<span class="filename">policy design process 0.jpg</span><span class="informations">1516x766 141 KB</span><span class="expand"></span>
 </div></a></div>
 </li>
 </ol>
