@@ -19,6 +19,9 @@
 <li>政策與服務執行<br><div class="lightbox-wrapper"><a data-download-href="https://talk.pdis.nat.gov.tw/uploads/default/14fa936b6106eb1423d8fe94e14ee6b01dadbdb7" href="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/14fa936b6106eb1423d8fe94e14ee6b01dadbdb7.jpg" class="lightbox" title="policy design process.jpg"><img src="https://talk.pdis.nat.gov.tw/uploads/default/optimized/1X/14fa936b6106eb1423d8fe94e14ee6b01dadbdb7_1_690x371.jpg" width="690" height="371"><div class="meta">
 <span class="filename">policy design process.jpg</span><span class="informations">2164x1164 209 KB</span><span class="expand"></span>
 </div></a></div>
+<br><div class="lightbox-wrapper"><a data-download-href="https://talk.pdis.nat.gov.tw/uploads/default/b1ec1865f43be5ff73d88b8a409f2f0e5bd30540" href="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/b1ec1865f43be5ff73d88b8a409f2f0e5bd30540.jpg" class="lightbox" title="Screen Shot 2017-06-05 at 3.10.28 PM.jpg"><img src="https://talk.pdis.nat.gov.tw/uploads/default/optimized/1X/b1ec1865f43be5ff73d88b8a409f2f0e5bd30540_1_689x387.jpg" width="689" height="387"><div class="meta">
+<span class="filename">Screen Shot 2017-06-05 at 3.10.28 PM.jpg</span><span class="informations">2424x1362 243 KB</span><span class="expand"></span>
+</div></a></div>
 </li>
 </ol>
 
