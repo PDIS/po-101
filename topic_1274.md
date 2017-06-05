@@ -2,7 +2,9 @@
 
 <p>思考方法的來源，來自於公部門與設計公司在應用設計思考 (Design Thinking) 時，經常參考的雙鑽流程 (Double Diamond) [1]，此流程由英國設計協議會（British Design Council）提出，是一種設計過程的基本架構，從時間軸的左到右，可以分為四個階段：探索(Discover)、定義(Define)、發展(Develop)、傳遞(Deliver)，如何有效率以及有品質地完成這個流程，需要許多工具與方法輔助。</p>
 
-<p><img src="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/27e321b95727ee046ed68a098b0d685e629b42c3.png" width="690" height="404"></p>
+<p><div class="lightbox-wrapper"><a data-download-href="https://talk.pdis.nat.gov.tw/uploads/default/27e321b95727ee046ed68a098b0d685e629b42c3" href="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/27e321b95727ee046ed68a098b0d685e629b42c3.png" class="lightbox" title="Double-Diamond-A3-for-publication-A-2000px_1.png"><img src="https://talk.pdis.nat.gov.tw/uploads/default/optimized/1X/27e321b95727ee046ed68a098b0d685e629b42c3_1_690x404.png" width="690" height="404"><div class="meta">
+<span class="filename">Double-Diamond-A3-for-publication-A-2000px_1.png</span><span class="informations">795x466 171 KB</span><span class="expand"></span>
+</div></a></div></p>
 
 <p>工具與方法的來源，主要綜合了英國Policy Lab政府組織政策形成工具(Open Policy Making 概念)以及服務設計方法，輔以丹麥Mind Lab設計方法、商業分析方法、組織經營管理方法，經由PO工作坊（也稱作PO協作會議）講師張顧問視每場PO工作坊的議題以及會議目標，去調整設計適合PO使用的工具與流程。<br>英國過去專業文官制度所遇到的問題至少高達八成與我國政府相同，可參考2012年的一份「公務人員重新架構」報告[2]，專業文官國家在政府保守跟自由民主黨的聯合政府底下，決定公務員做的事讓人沒有成就感，當時開放政府尚未變成國際上的顯學，遂提出「公務重新架構」報告。雖然決策的結果是透明的，但是決策的過程是重重黑幕，據以決策的工具是不公開的。因此他們提出「協作」的概念來當作這一個問題的方式。只要有專業文官系統，這個問題就是制度性、跑不掉的，因此他們當初提出「Open Policy Making」的概念，在這個開放政策概念圖裡[3]，我們可以看到「Join」平台目前就是「E-consultation」一個非常小的一個部分。</p>
 
@@ -16,7 +18,9 @@
 <li>政策與服務概念發展</li>
 <li>政策與服務設計</li>
 <li>政策與服務測試</li>
-<li>政策與服務執行<br><img src="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/d4a4114c097e60430823ab60373e5b92c1b2a207.jpg" width="690" height="386">
+<li>政策與服務執行<br><div class="lightbox-wrapper"><a data-download-href="https://talk.pdis.nat.gov.tw/uploads/default/d4a4114c097e60430823ab60373e5b92c1b2a207" href="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/d4a4114c097e60430823ab60373e5b92c1b2a207.jpg" class="lightbox" title="3.jpg"><img src="https://talk.pdis.nat.gov.tw/uploads/default/optimized/1X/d4a4114c097e60430823ab60373e5b92c1b2a207_1_690x386.jpg" width="690" height="386"><div class="meta">
+<span class="filename">3.jpg</span><span class="informations">1524x854 142 KB</span><span class="expand"></span>
+</div></a></div>
 </li>
 </ol>
 
@@ -30,4 +34,6 @@
 
 <p>[4] 設計思考應用之流程中的「使用者」：這裡指廣義的使用者，除了末端使用者、專業人士、組織，另有包含服務提供者。</p>
 
-<p><img src="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/81b9721924560d80feae65f8374817a3a5e5162b.png" width="634" height="500"></p>
+<p><div class="lightbox-wrapper"><a data-download-href="https://talk.pdis.nat.gov.tw/uploads/default/81b9721924560d80feae65f8374817a3a5e5162b" href="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/81b9721924560d80feae65f8374817a3a5e5162b.png" class="lightbox" title="貼上的圖片"><img src="https://talk.pdis.nat.gov.tw/uploads/default/optimized/1X/81b9721924560d80feae65f8374817a3a5e5162b_1_634x500.png" width="634" height="500"><div class="meta">
+<span class="filename">貼上的圖片</span><span class="informations">1510x1190 80.6 KB</span><span class="expand"></span>
+</div></a></div></p>
