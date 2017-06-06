@@ -24,7 +24,7 @@
 <li><p><strong>適合使用工具的人員組成</strong>：任何有涉入政策規劃的人員，跨部會或者是單一部會人員組合皆適用。<br><img src="https://talk.pdis.nat.gov.tw/uploads/default/original/1X/765d9798d81f2941dd4b15d2460b1618cd0bfd38.png" width="690" height="486"></p></li>
 </ul>
 
-<blockquote><p>小補充：方法1與方法2的差別</p></blockquote>
+<blockquote><p>小補充：方法1與方法2的差別<br>如果問題定義非常明確，可以直想想像各種產品或服務，則建議使用方法1，舉例來說，「如何讓檢察官透過線上訊問犯人，減輕司法警察戒護後的工作」。如果問題定義明確但解決方式比較偏行政程序即可處理，不需要設計產品或服務來解決，則適用方法2。</p></blockquote>
 
 <h2>如何深化概念？</h2>
 
