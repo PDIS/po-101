@@ -28,6 +28,8 @@
 </div></a></div></p></li>
 </ul>
 
+<blockquote><p>小補充：方法1與方法2的差別</p></blockquote>
+
 <h2>如何深化概念？</h2>
 
 <p><strong>☞步驟1：服務設計藍圖與使用者旅程</strong></p>
