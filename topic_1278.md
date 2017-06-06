@@ -14,12 +14,12 @@
 
 <h2>如何形成數位服務與產品的流程細節？</h2>
 
-<p>步驟1到4可以依情況同時、來回進行。<br> <strong>☞步驟1：標竿案例搜集與研究分析</strong><br> <strong>☞步驟1：標竿案例搜集與研究分析</strong></p>
+<p>步驟1到5可以依情況同時、來回進行。<br> <strong>☞步驟1：標竿案例搜集與研究分析</strong><br> <strong>☞步驟2：標竿案例搜集與研究分析</strong></p>
 
-<p> <strong>☞步驟2：數位服務與產品流程圖</strong><br>接續3-3的產出<br>常見的數位產品流程圖如web flow, app flow</p>
+<p> <strong>☞步驟3：數位服務與產品流程圖</strong><br>接續3-3的產出<br>常見的數位產品流程圖如web flow, app flow</p>
 
-<p><strong>☞步驟3：產出使用者經驗與介面設計細節</strong></p>
+<p><strong>☞步驟4：產出使用者經驗與介面設計細節</strong></p>
 
-<p><strong>☞步驟4：程式設計</strong></p>
+<p><strong>☞步驟5：程式設計</strong></p>
 
 <h2>如何形成數位加實體產品的流程細節？</h2>
